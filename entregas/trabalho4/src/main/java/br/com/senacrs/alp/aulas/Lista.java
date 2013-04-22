@@ -1,4 +1,4 @@
-package br.com.senacrs.alp.aulas;
+ package br.com.senacrs.alp.aulas;
 
 public interface Lista<T extends Object> {
 
